@@ -1,3 +1,5 @@
+![](https://github.com/ro-drick/Python-Socket-Chat-App/blob/master/Python_Socket_Chat_App.png)
+
 # Python Socket Chat App
 This project is a **basic client-server chat application** implemented using Python's `socket` library. It facilitates **two-way text communication** between a server and a client on the same local network (or the same machine).
 
