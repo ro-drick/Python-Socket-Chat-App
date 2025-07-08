@@ -1,5 +1,6 @@
 # Python Socket Chat App
 This project is a **basic client-server chat application** implemented using Python's `socket` library. It facilitates **two-way text communication** between a server and a client on the same local network (or the same machine).
+
 ![Static Badge](https://img.shields.io/badge/python-socket-blue)
 
 
