@@ -5,6 +5,7 @@ This project is a **basic client-server chat application** implemented using Pyt
 
 ![Static Badge](https://img.shields.io/badge/python-socket-blue)
 
+![](https://github.com/ro-drick/Python-Socket-Chat-App/blob/master/chat.png)
 
 ## 🔧 **Project Overview**
 
